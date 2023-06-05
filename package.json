@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Suei43/ChatBot/issues"
   },
-  "homepage": "https://github.com/Suei43/ChatBot#readme"
+  "homepage": "https://github.com/Suei43/ChatBot#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
