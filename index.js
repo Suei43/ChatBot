@@ -3,7 +3,13 @@ require('dotenv').config();
 const openai = require("openai");
 const axios = require("axios");
 
-const payload = {};
+const payload = {
+    model: 'davinci',
+    prompt: 'Who is elon musk?',
+    max_tokens: 50,
+    temperature: 0.8
+  };
+
 const headers = {
     'Authorization': `Bearer ${API_KEY}`,
     'Content-Type': 'application/json',
