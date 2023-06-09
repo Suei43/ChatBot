@@ -1,4 +1,4 @@
-# NextJS Chatbot with OpenAI API
+# Chatbot with OpenAI API and NextJS
 
 This is a README file for a Chatbot project built using NextJS and the OpenAI API. The project is currently 20% complete and aims to create an interactive chatbot that utilizes the power of the OpenAI language model to provide intelligent responses to user queries.
 
